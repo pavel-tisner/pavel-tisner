@@ -11,8 +11,6 @@ I'm a career-switching developer based in the Netherlands, currently focused on 
 
 Before moving into tech, I worked for several years in **real estate**, gaining experience in project-based work, client relations, and structured decision-making.
 
-I bring a problem-solving mindset, prefer learning fundamentals, writing clear code, and building things step by step.
-
 - JavaScript (ES6+), DOM, basics of frontend development  
 - Git, GitHub, CLI, collaborative workflows  
 - Interest in **global history**
