@@ -1,6 +1,6 @@
 <p align="left">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=000000&width=420&lines=Hi%2C+Welcome+to+my+GitHub"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=000000&width=420&lines=Welcome+to+my+GitHub"
     alt="Typing SVG"
   />
 </p>
