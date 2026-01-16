@@ -18,3 +18,9 @@ Before moving into tech, I worked for several years in **real estate**, gaining 
 
 I plan to learn SQL and Python as core tools for data and product analytics.
 Next, I want to build skills in product metrics, A/B testing, and analytics tools to support product decisions.
+
+## Top languages 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-tisner&layout=compact&hide_border=true)
+
+## GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true)
