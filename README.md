@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="left">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=000000&width=420&lines=Hi%2C+I'm+Pavel;Learning+JavaScript+and+web+development"
+    alt="Typing SVG"
+  />
+</p>
 
-<!--
-**pavel-tisner/pavel-tisner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Pavel
 
-Here are some ideas to get you started:
+I'm a career-switching developer based in the Netherlands, currently focused on **JavaScript** and core web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I bring a structured, problem-solving mindset from a project-driven background and prefer learning fundamentals, writing clear code, and building things step by step.
+
+- JavaScript (ES6+), DOM, basics of frontend development  
+- Git, GitHub, CLI, collaborative workflows  
+- Learning in public and open to collaboration
