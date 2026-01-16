@@ -15,7 +15,7 @@ I bring a problem-solving mindset, prefer learning fundamentals, writing clear c
 
 - JavaScript (ES6+), DOM, basics of frontend development  
 - Git, GitHub, CLI, collaborative workflows  
-- Interest in **global history**, long-term processes, and complex systems  
+- Interest in **global history**
 - Learning in public and open to collaboration
 
 I plan to learn SQL and Python as core tools for data and product analytics.
