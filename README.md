@@ -17,3 +17,6 @@ I bring a problem-solving mindset, prefer learning fundamentals, writing clear c
 - Git, GitHub, CLI, collaborative workflows  
 - Interest in **global history**, long-term processes, and complex systems  
 - Learning in public and open to collaboration
+
+I plan to learn SQL and Python as core tools for data and product analytics.
+Next, I want to build skills in product metrics, A/B testing, and analytics tools to support product decisions.
