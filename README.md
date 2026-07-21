@@ -30,6 +30,7 @@ Junior Data Engineer currently completing the HackYourFuture Data Engineering pr
 ### Programming
 
 - Python
+- JS
 - SQL
 - Jinja
 
