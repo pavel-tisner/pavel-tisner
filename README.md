@@ -1,6 +1,6 @@
 # Hi, I'm Pavel Tisner
 
-### Junior Data Engineer | Analytics Engineer
+### Junior Data Engineer | Analytics Engineering
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -10,7 +10,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-Junior Data Engineer currently completing the HackYourFuture Data Engineering programme. I build end-to-end data pipelines using Python, SQL, PostgreSQL, dbt, Docker, Azure and Apache Airflow. I'm passionate about data platforms, analytics engineering and workflow automation, and I'm currently expanding my skills in AI-powered automation.
+Junior Data Engineer focused on building reliable end-to-end data pipelines and analytics workflows using Python, SQL, PostgreSQL, dbt, Apache Airflow, Databricks, Docker and Azure. I recently completed the HackYourFuture Data Engineering programme, where I worked on production-style data projects and a team final project. I'm particularly interested in data platforms, analytics engineering and cloud-based data systems.
 
 ---
 
