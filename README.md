@@ -74,23 +74,9 @@ Analytics Engineering project featuring SQL data modelling, dbt transformations,
 
 ---
 
-## Professional Interests
-
-- Data Engineering
-- Analytics Engineering
-- Cloud Data Platforms
-- Workflow Automation
-- Artificial Intelligence
-
----
-
 ## Connect
 
-**LinkedIn**  
-https://www.linkedin.com/in/pavel-tisner/
-
-**GitHub**  
-https://github.com/pavel-tisner
+[LinkedIn](https://www.linkedin.com/in/pavel-tisner/) • pavel.tisner@gmail.com
 
 ## Top languages 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-tisner&layout=compact&hide_border=true)
