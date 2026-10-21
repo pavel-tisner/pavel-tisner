@@ -14,39 +14,36 @@ Junior Data Engineer focused on building reliable end-to-end data pipelines and 
 
 ---
 
-## What I'm Working On
+## Current Focus
 
-- Building production-style ETL/ELT pipelines
-- Data modelling with PostgreSQL and dbt
-- Workflow orchestration with Apache Airflow
-- Analytics engineering projects
-- Dashboard development with Metabase and Streamlit
-- Preparing for a career as a Junior Data Engineer
+- Turning my HackYourFuture final team project into a portfolio-ready data engineering project
+- Reworking a real-estate data platform with a stronger data engineering and analytics architecture
+- Building ETL/ELT pipelines with Python, SQL, dbt and Apache Airflow
+- Improving data modelling, data quality and data-contract practices
+- Expanding my experience with Databricks and cloud-based data platforms
 
 ---
 
 ## Technical Toolkit
 
-### Programming
-
+### Languages & Querying
 - Python
-- JS
 - SQL
 - Jinja
 
-### Data Engineering
-
-- ETL / ELT
+### Data Engineering & Analytics
 - PostgreSQL
 - dbt
 - Apache Airflow
-- Pydantic
+- Databricks
+- Pandas
 - REST APIs
+- ETL / ELT
 - Data Modelling
 - Data Quality Testing
+- Pydantic
 
 ### Cloud & DevOps
-
 - Azure
 - Azure Blob Storage
 - Azure Database for PostgreSQL
@@ -55,18 +52,9 @@ Junior Data Engineer focused on building reliable end-to-end data pipelines and 
 - GitHub
 - GitHub Actions
 
-### Analytics
-
-- Pandas
-- Metabase
+### Visualisation & Data Apps
 - Streamlit
-
-### Currently Learning
-
-- LLM Applications
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- AI-powered Workflow Automation
+- Metabase
 
 ---
 
