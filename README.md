@@ -60,15 +60,20 @@ Junior Data Engineer focused on building reliable end-to-end data pipelines and 
 
 ## Featured Projects
 
-### Dutch Housing Market Data Platform
+### Event Calendar
+End-to-end event data platform developed as part of a cross-functional team project.
 
-Production-style ETL pipeline integrating CBS REST APIs, PostgreSQL, dbt and Apache Airflow.
+**My contribution:** API research and data contract design, dbt transformations in Databricks, Airflow workflows, event-price enrichment, venue enrichment and data-platform monitoring.
+
+**Stack:** Python • SQL • dbt • Databricks • Apache Airflow • Streamlit
+
+### Dutch Housing Market Data Platform
+Data engineering and analytics platform for exploring the Dutch housing market using public data sources.
 
 **Stack:** Python • PostgreSQL • dbt • Apache Airflow • Azure • Docker
 
 ### NYC Taxi Analytics Platform
-
-Analytics Engineering project featuring SQL data modelling, dbt transformations, analytical marts and interactive dashboards.
+Analytics engineering project with dbt transformations, analytical marts and interactive dashboards.
 
 **Stack:** Python • SQL • dbt • PostgreSQL • Metabase • Streamlit
 
@@ -81,5 +86,3 @@ Analytics Engineering project featuring SQL data modelling, dbt transformations,
 ## Top languages 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-tisner&layout=compact&hide_border=true)
 
-## GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true)
